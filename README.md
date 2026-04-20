@@ -35,7 +35,7 @@
 # --- Java VPS Server 核心配置 ---
 
 # 🔹 TUIC 协议监听端口 (UDP)
-tuic_port: "25755"
+tuic_port: "12345"
 
 # 🔹 Hysteria2 协议监听端口 (UDP)
 hy2_port: ""
